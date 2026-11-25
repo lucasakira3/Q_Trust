@@ -1,0 +1,501 @@
+﻿texto,urgencia,transferencia,premio,falsa_identidade,risco,rotulo
+Feliz aniversário! Tudo de bom.,0.11,0.05,0.07,0.02,0,baixo
+"Olá, sou o gerente da sua conta no FinPlus. Cupom de frete grátis válido até domingo. Tem que ser hoje, senão vão cortar. Paga esse boleto de R$ 2.300 pra mim? Depois te passo.",0.81,0.89,0.42,0.86,2,alto
+"Quando puder, me responde.",0.39,0.1,0.12,0.05,0,baixo
+"Boa noite, até amanhã.",0.13,0.13,0.1,0.02,0,baixo
+Feliz aniversário! Tudo de bom.,0.1,0.15,0.12,0.07,0,baixo
+"Boa noite, até amanhã. Cupom de frete grátis válido até domingo.",0.13,0.04,0.34,0.07,0,baixo
+"Olá, sou o gerente da sua conta no FinPlus.",0.01,0.12,0.07,1.0,1,medio
+"Olá, falo em nome da administração do condomínio. Depois me passa os R$ 3.000 da viagem, sem pressa.",0.13,0.53,0.12,0.43,1,medio
+"Comprei o pão, mais alguma coisa? Participe do sorteio do grupo da academia.",0.06,0.11,0.38,0.05,0,baixo
+"Você ganhou um celular novo, pague só o frete. Transfere R$ 1.500 para regularizar sua conta.",0.03,0.93,1.0,0.1,2,alto
+"Somos do suporte do WhatsApp, sua conta foi denunciada. Não posso falar agora, só faz isso rápido. Manda R$ 800 nessa chave Pix: 028f5cab-2419-ab45",0.85,0.88,0.08,0.83,2,alto
+"Resgate agora seu bônus de R$ 800. Responde rápido, é sério! Manda R$ 1.200 nessa chave Pix: pagamentos553@exemplo.com",0.8,0.85,0.9,0.03,2,alto
+Qual sua chave Pix pra eu te pagar a pizza?,0.02,0.08,0.03,0.02,0,baixo
+"Você ganhou um celular novo, pague só o frete.",0.0,0.08,0.93,0.03,1,medio
+"Oi mãe, troquei de número, salva esse. Faz uma transferência de R$ 800 pra conta de segurança.",0.13,0.88,0.04,0.77,2,alto
+Feliz aniversário! Tudo de bom. Promoção da semana: 20% de desconto na loja.,0.09,0.11,0.36,0.05,0,baixo
+"Oi, sumida(o)! Seu cadastro foi premiado na promoção de aniversário do Banco Horizonte. Última chance, o prazo acaba hoje. Faz uma transferência de R$ 3.000 pra conta de segurança.",1.0,0.93,0.79,0.12,2,alto
+"Me avisa até amanhã, beleza?",0.34,0.12,0.0,0.09,0,baixo
+"Oi mãe, troquei de número, salva esse.",0.06,0.05,0.07,0.77,1,medio
+"Olá, falo em nome da administração do condomínio. Preciso disso agora, por favor.",0.97,0.08,0.15,0.39,1,medio
+"Oi amor, troquei de número, salva esse. Participe do sorteio do grupo da academia. Não posso falar agora, só faz isso rápido. Paga esse boleto de R$ 1.200 pra mim? Depois te passo.",0.82,1.0,0.38,0.84,2,alto
+Seu CPF tem um valor a receber de R$ 2.300.,0.12,0.06,1.0,0.11,1,medio
+Promoção da semana: 20% de desconto na loja. Se der pra resolver hoje seria bom.,0.39,0.13,0.56,0.14,1,medio
+"Oi, aqui é da loja onde você comprou semana passada. Responde rápido, é sério! Me empresta R$ 2.300? Te devolvo amanhã.",0.92,0.89,0.15,0.42,2,alto
+Vamos almoçar onde?,0.15,0.04,0.14,0.01,0,baixo
+Seu cadastro foi premiado na promoção de aniversário do FinPlus. Me empresta R$ 800? Te devolvo amanhã.,0.15,0.96,0.81,0.09,2,alto
+"Oi, aqui é da loja onde você comprou semana passada. A vaquinha do presente ficou R$ 800 pra cada.",0.05,0.5,0.14,0.34,1,medio
+"Oi amor, troquei de número, salva esse.",0.05,0.12,0.12,1.0,1,medio
+"Tem que ser hoje, senão vão cortar.",0.92,0.14,0.07,0.1,2,alto
+"Última chance, o prazo acaba hoje.",0.92,0.07,0.13,0.01,1,medio
+Se der pra resolver hoje seria bom.,0.3,0.06,0.14,0.06,0,baixo
+Qual sua chave Pix pra eu te pagar a pizza?,0.09,0.0,0.1,0.1,0,baixo
+Me empresta R$ 450? Te devolvo amanhã.,0.14,0.89,0.02,0.05,1,medio
+Vamos almoçar onde?,0.04,0.02,0.0,0.09,0,baixo
+Faz uma transferência de R$ 800 pra conta de segurança.,0.12,0.94,0.01,0.14,1,medio
+Participe do sorteio do grupo da academia.,0.09,0.01,0.33,0.01,0,baixo
+"Oi, aqui é da loja onde você comprou semana passada. Preciso disso agora, por favor. Faz uma transferência de R$ 3.000 pra conta de segurança.",0.86,1.0,0.08,0.39,2,alto
+A vaquinha do presente ficou R$ 500 pra cada.,0.09,0.49,0.05,0.09,0,baixo
+"Oi, peguei seu contato com o Gabriel. Preciso disso agora, por favor.",0.77,0.09,0.1,0.48,1,medio
+"Depois me passa os R$ 150 da viagem, sem pressa.",0.01,0.43,0.09,0.12,0,baixo
+"Oi amor, troquei de número, salva esse. Não posso falar agora, só faz isso rápido. Faz uma transferência de R$ 1.200 pra conta de segurança.",0.75,0.89,0.1,0.96,2,alto
+"Oi, sou eu, Juliana, tô usando o celular de um amigo.",0.14,0.03,0.06,0.85,1,medio
+"Depois me passa os R$ 1.200 da viagem, sem pressa.",0.01,0.36,0.12,0.03,0,baixo
+Qual sua chave Pix pra eu te pagar a pizza?,0.07,0.11,0.12,0.03,0,baixo
+Aqui é da central de segurança do FinPlus. Sua conta será bloqueada em 30 minutos. Faz uma transferência de R$ 450 pra conta de segurança.,0.84,0.89,0.09,0.82,2,alto
+Se der pra resolver hoje seria bom.,0.4,0.06,0.05,0.09,0,baixo
+"Te mandei o Pix do almoço, confere aí. Se der pra resolver hoje seria bom.",0.42,0.02,0.05,0.13,0,baixo
+"Oi mãe, sou eu, meu celular quebrou e esse é meu número novo. Faz uma transferência de R$ 450 pra conta de segurança.",0.03,0.97,0.11,0.94,2,alto
+Se der pra resolver hoje seria bom.,0.5,0.08,0.11,0.04,0,baixo
+Participe do sorteio do grupo da academia.,0.12,0.02,0.37,0.14,0,baixo
+Chego em casa às 19h. Promoção da semana: 20% de desconto na loja.,0.12,0.13,0.32,0.01,0,baixo
+Promoção da semana: 20% de desconto na loja.,0.01,0.04,0.42,0.07,0,baixo
+"Oi, sou eu, Ana, tô usando o celular de um amigo. Preciso disso agora, por favor. Transfere R$ 800 para regularizar sua conta.",1.0,0.95,0.07,0.91,2,alto
+"Última chance, o prazo acaba hoje.",0.94,0.12,0.05,0.05,1,medio
+"Recebi o comprovante, obrigado!",0.05,0.06,0.05,0.13,0,baixo
+"Boa noite, até amanhã.",0.02,0.06,0.05,0.13,0,baixo
+"Oi, peguei seu contato com o Bruno. Tem que ser hoje, senão vão cortar.",0.85,0.01,0.12,0.46,1,medio
+"Comprei o pão, mais alguma coisa? Cupom de frete grátis válido até domingo.",0.14,0.01,0.24,0.04,0,baixo
+Amanhã tem reunião às 10h.,0.06,0.1,0.08,0.09,0,baixo
+"Olá, falo em nome da administração do condomínio. Última chance, o prazo acaba hoje. Manda R$ 450 nessa chave Pix: (11) 99335-4673",0.9,0.77,0.15,0.62,2,alto
+"Me avisa até amanhã, beleza?",0.54,0.06,0.13,0.02,0,baixo
+"Oi, peguei seu contato com o Mariana. Última chance, o prazo acaba hoje. Transfere R$ 3.000 para regularizar sua conta.",0.8,0.9,0.02,0.42,2,alto
+Amanhã tem reunião às 10h.,0.12,0.04,0.14,0.01,0,baixo
+Obrigado pela ajuda hoje. Participe do sorteio do grupo da academia.,0.01,0.07,0.49,0.04,0,baixo
+Vamos almoçar onde?,0.14,0.13,0.01,0.02,0,baixo
+Promoção da semana: 20% de desconto na loja.,0.13,0.07,0.3,0.15,0,baixo
+"Você ganhou um celular novo, pague só o frete.",0.06,0.13,0.94,0.08,1,medio
+"Me avisa até amanhã, beleza?",0.5,0.09,0.08,0.07,0,baixo
+"Oi, sou eu, Juliana, tô usando o celular de um amigo. Faz uma transferência de R$ 3.000 pra conta de segurança.",0.08,0.79,0.12,0.92,2,alto
+"Oi, peguei seu contato com o Mariana. Preciso disso agora, por favor. Me empresta R$ 1.500? Te devolvo amanhã.",0.82,0.95,0.09,0.41,2,alto
+Participe do sorteio do grupo da academia.,0.03,0.14,0.34,0.08,0,baixo
+"Oi, peguei seu contato com o Vitor. Não posso falar agora, só faz isso rápido. Transfere R$ 3.000 para regularizar sua conta.",0.95,0.84,0.11,0.63,2,alto
+Me empresta R$ 150? Te devolvo amanhã.,0.11,0.91,0.06,0.01,1,medio
+"Somos do suporte do WhatsApp, sua conta foi denunciada. Responde rápido, é sério! Paga esse boleto de R$ 450 pra mim? Depois te passo.",0.87,0.79,0.01,0.97,2,alto
+"Oi filha, sou eu, meu celular quebrou e esse é meu número novo. Me empresta R$ 450? Te devolvo amanhã.",0.04,0.88,0.05,0.93,2,alto
+"Seu CPF tem um valor a receber de R$ 150. Não posso falar agora, só faz isso rápido. Me empresta R$ 450? Te devolvo amanhã.",0.86,0.98,1.0,0.05,2,alto
+O Camila vai na festa?,0.12,0.08,0.09,0.1,0,baixo
+"Oi, sou eu, Mariana, tô usando o celular de um amigo. Cupom de frete grátis válido até domingo. É urgente! Paga esse boleto de R$ 150 pra mim? Depois te passo.",1.0,0.94,0.39,0.86,2,alto
+"Oi, aqui é da loja onde você comprou semana passada. A vaquinha do presente ficou R$ 2.300 pra cada.",0.02,0.34,0.13,0.54,1,medio
+"Boa noite, até amanhã.",0.09,0.14,0.1,0.0,0,baixo
+"Bom dia, tudo bem?",0.03,0.13,0.04,0.06,0,baixo
+O Mariana vai na festa?,0.06,0.04,0.08,0.15,0,baixo
+"Oi, aqui é da loja onde você comprou semana passada. Preciso disso agora, por favor. Paga esse boleto de R$ 1.200 pra mim? Depois te passo.",0.83,0.85,0.12,0.54,2,alto
+Promoção da semana: 20% de desconto na loja. Se der pra resolver hoje seria bom.,0.43,0.05,0.4,0.03,1,medio
+Seu CPF tem um valor a receber de R$ 1.200. Faz uma transferência de R$ 500 pra conta de segurança.,0.07,0.97,0.83,0.01,2,alto
+"Oi, sumida(o)! Oi, peguei seu contato com o Vitor. É urgente! Faz um Pix de R$ 500 pra essa chave: pagamentos392@exemplo.com",0.96,0.71,0.03,0.58,2,alto
+"Bom dia! Seu CPF tem um valor a receber de R$ 280. Tem que ser hoje, senão vão cortar. Manda R$ 150 nessa chave Pix: 03a15213-7179-ab80",0.95,0.88,0.95,0.0,2,alto
+"Depois me passa os R$ 500 da viagem, sem pressa.",0.01,0.52,0.13,0.08,0,baixo
+"Oi mano, troquei de número, salva esse. Me empresta R$ 280? Te devolvo amanhã.",0.11,0.86,0.11,0.93,2,alto
+Amanhã tem reunião às 10h. A vaquinha do presente ficou R$ 3.000 pra cada.,0.15,0.52,0.04,0.0,0,baixo
+Viu o jogo ontem?,0.05,0.04,0.05,0.0,0,baixo
+Vamos almoçar onde?,0.13,0.0,0.12,0.09,0,baixo
+"Você ganhou um celular novo, pague só o frete.",0.03,0.04,0.87,0.04,1,medio
+"Oi, peguei seu contato com o Gabriel. Tem que ser hoje, senão vão cortar.",0.87,0.05,0.12,0.55,1,medio
+"Te mandei o Pix do almoço, confere aí.",0.14,0.07,0.08,0.1,0,baixo
+Qual sua chave Pix pra eu te pagar a pizza?,0.1,0.11,0.04,0.1,0,baixo
+"Qual sua chave Pix pra eu te pagar a pizza? Depois me passa os R$ 500 da viagem, sem pressa.",0.09,0.53,0.12,0.11,0,baixo
+"Oi, sumida(o)! Parabéns! Você foi sorteado e ganhou R$ 2.300. Paga esse boleto de R$ 1.200 pra mim? Depois te passo.",0.08,0.77,0.8,0.12,2,alto
+"Seu CPF tem um valor a receber de R$ 3.000. Última chance, o prazo acaba hoje. Me empresta R$ 500? Te devolvo amanhã.",0.73,0.84,0.93,0.1,2,alto
+Viu o jogo ontem? A vaquinha do presente ficou R$ 450 pra cada.,0.09,0.37,0.09,0.09,0,baixo
+"Oi filho, sou eu, meu celular quebrou e esse é meu número novo.",0.1,0.1,0.1,1.0,1,medio
+Seu cadastro foi premiado na promoção de aniversário do Banco Horizonte. Transfere R$ 500 para regularizar sua conta.,0.07,0.9,0.81,0.14,2,alto
+Seu CPF tem um valor a receber de R$ 1.500.,0.11,0.07,0.83,0.08,1,medio
+Atendimento Banco Horizonte: identificamos uma compra suspeita no seu cartão. Sua conta será bloqueada em 30 minutos. Faz uma transferência de R$ 280 pra conta de segurança.,0.84,0.79,0.15,0.97,2,alto
+"Bom dia, tudo bem? Promoção da semana: 20% de desconto na loja.",0.09,0.06,0.46,0.02,0,baixo
+"Oi, sou eu, Thiago, tô usando o celular de um amigo.",0.05,0.04,0.07,0.71,0,baixo
+Promoção da semana: 20% de desconto na loja.,0.06,0.15,0.34,0.07,0,baixo
+Parabéns! Você foi sorteado e ganhou R$ 280. Paga esse boleto de R$ 450 pra mim? Depois te passo.,0.11,0.71,0.73,0.09,2,alto
+Promoção da semana: 20% de desconto na loja.,0.02,0.15,0.4,0.12,0,baixo
+"Oi, sou eu, Diego, tô usando o celular de um amigo.",0.02,0.11,0.01,0.88,1,medio
+Vamos almoçar onde? Se der pra resolver hoje seria bom.,0.48,0.13,0.14,0.04,0,baixo
+"Oi pai, sou eu, meu celular quebrou e esse é meu número novo. Faz um Pix de R$ 150 pra essa chave: (11) 97520-9300",0.06,0.97,0.13,0.75,2,alto
+A vaquinha do presente ficou R$ 1.500 pra cada.,0.15,0.5,0.14,0.01,0,baixo
+"Bom dia, tudo bem?",0.02,0.09,0.14,0.04,1,medio
+"Oi, tudo bem? Atendimento FinPlus: identificamos uma compra suspeita no seu cartão. Manda R$ 280 nessa chave Pix: pagamentos533@exemplo.com",0.14,0.98,0.02,0.95,2,alto
+"Oi filho, troquei de número, salva esse. Não posso falar agora, só faz isso rápido. Paga esse boleto de R$ 1.200 pra mim? Depois te passo.",0.91,0.79,0.1,0.9,2,alto
+"Oi, tudo bem? Você ganhou um celular novo, pague só o frete. Sua conta será bloqueada em 30 minutos. Manda R$ 800 nessa chave Pix: 04d5a5e0-4902-ab63",1.0,0.93,0.93,0.12,2,alto
+"Manda a foto do bolo! Me avisa até amanhã, beleza?",0.5,0.11,0.13,0.06,0,baixo
+Já saí do trabalho.,0.02,0.02,0.12,0.02,0,baixo
+Resgate agora seu bônus de R$ 150.,0.12,0.05,0.87,0.13,1,medio
+Amanhã tem reunião às 10h. A vaquinha do presente ficou R$ 3.000 pra cada.,0.0,0.39,0.15,0.04,1,medio
+"Não posso falar agora, só faz isso rápido.",0.9,0.01,0.1,0.03,1,medio
+Seu CPF tem um valor a receber de R$ 150. Transfere R$ 1.500 para regularizar sua conta.,0.03,0.94,0.84,0.03,2,alto
+"Oi amor, troquei de número, salva esse.",0.05,0.04,0.08,0.92,1,medio
+Manda R$ 150 nessa chave Pix: (11) 94594-7363,0.1,0.82,0.02,0.15,1,medio
+"Bom dia! Oi, peguei seu contato com o Camila. Sua conta será bloqueada em 30 minutos. Me empresta R$ 1.200? Te devolvo amanhã.",0.84,0.88,0.14,0.36,2,alto
+Transfere R$ 450 para regularizar sua conta.,0.1,0.81,0.07,0.11,1,medio
+"Recebi o comprovante, obrigado!",0.11,0.09,0.0,0.03,0,baixo
+Chego em casa às 19h.,0.03,0.13,0.15,0.04,0,baixo
+"Oi, aqui é da loja onde você comprou semana passada. Não posso falar agora, só faz isso rápido.",0.94,0.11,0.0,0.52,1,medio
+Faz um Pix de R$ 1.200 pra essa chave: pagamentos638@exemplo.com,0.01,0.83,0.02,0.13,1,medio
+"Te mandei o Pix do almoço, confere aí.",0.03,0.1,0.03,0.02,0,baixo
+Qual sua chave Pix pra eu te pagar a pizza? Cupom de frete grátis válido até domingo.,0.06,0.04,0.37,0.02,0,baixo
+"Você ganhou um celular novo, pague só o frete. Manda R$ 1.200 nessa chave Pix: (11) 97782-4727",0.06,0.94,0.78,0.03,2,alto
+"Olá, falo em nome da administração do condomínio. Preciso disso agora, por favor.",0.83,0.04,0.09,0.44,1,medio
+Chego em casa às 19h.,0.14,0.14,0.04,0.13,0,baixo
+Cupom de frete grátis válido até domingo. Se der pra resolver hoje seria bom.,0.36,0.02,0.34,0.09,1,medio
+"Oi, aqui é da loja onde você comprou semana passada. A vaquinha do presente ficou R$ 1.200 pra cada.",0.14,0.52,0.11,0.55,1,medio
+"Resgate agora seu bônus de R$ 1.500. Última chance, o prazo acaba hoje. Paga esse boleto de R$ 2.300 pra mim? Depois te passo.",0.83,0.8,0.73,0.12,2,alto
+"Oi tia, troquei de número, salva esse. Faz uma transferência de R$ 800 pra conta de segurança.",0.04,0.87,0.1,0.82,2,alto
+Manda a foto do bolo! Se der pra resolver hoje seria bom.,0.45,0.13,0.08,0.02,0,baixo
+"Oi, tudo bem? Olá, sou o gerente da sua conta no Banco Horizonte. Cupom de frete grátis válido até domingo. Responde rápido, é sério! Transfere R$ 1.200 para regularizar sua conta.",0.84,0.83,0.31,0.82,2,alto
+"Comprei o pão, mais alguma coisa? Promoção da semana: 20% de desconto na loja.",0.13,0.02,0.36,0.08,0,baixo
+"Comprei o pão, mais alguma coisa?",0.01,0.09,0.11,0.07,1,medio
+O Beatriz vai na festa?,0.13,0.11,0.14,0.11,0,baixo
+Qual sua chave Pix pra eu te pagar a pizza? Participe do sorteio do grupo da academia.,0.01,0.01,0.48,0.08,0,baixo
+"Olá, sou o gerente da sua conta no Banco Aurora. Promoção da semana: 20% de desconto na loja. É urgente! Faz uma transferência de R$ 500 pra conta de segurança.",0.83,0.74,0.43,0.79,2,alto
+"Oi, aqui é da loja onde você comprou semana passada. A vaquinha do presente ficou R$ 2.300 pra cada.",0.0,0.51,0.05,0.36,1,medio
+"Olá, falo em nome da administração do condomínio. Não posso falar agora, só faz isso rápido.",0.8,0.1,0.0,0.29,1,medio
+"Olá, sou o gerente da sua conta no Banco Atlântico. É urgente! Manda R$ 280 nessa chave Pix: pagamentos754@exemplo.com",0.91,0.9,0.13,1.0,2,alto
+"Participe do sorteio do grupo da academia. Me avisa até amanhã, beleza?",0.43,0.13,0.41,0.01,1,medio
+"Bom dia, tudo bem?",0.0,0.06,0.11,0.15,0,baixo
+Seu cadastro foi premiado na promoção de aniversário do FinPlus. Faz um Pix de R$ 280 pra essa chave: (11) 94633-1035,0.01,0.87,0.95,0.14,2,alto
+"Oi, aqui é da loja onde você comprou semana passada. Responde rápido, é sério!",0.75,0.09,0.11,0.34,1,medio
+"Oi, sou eu, Juliana, tô usando o celular de um amigo. Cupom de frete grátis válido até domingo. Tem que ser hoje, senão vão cortar. Me empresta R$ 450? Te devolvo amanhã.",0.92,0.89,0.38,0.8,2,alto
+"Oi, aqui é da loja onde você comprou semana passada. Não posso falar agora, só faz isso rápido. Paga esse boleto de R$ 280 pra mim? Depois te passo.",0.76,0.8,0.13,0.35,2,alto
+"Você ganhou um celular novo, pague só o frete.",0.06,0.06,0.96,0.1,1,medio
+Manda a foto do bolo! Se der pra resolver hoje seria bom.,0.25,0.03,0.03,0.11,0,baixo
+"Você ganhou um celular novo, pague só o frete. Preciso disso agora, por favor. Manda R$ 1.200 nessa chave Pix: 02f1d403-4579-ab89",0.96,0.76,0.92,0.09,2,alto
+Chego em casa às 19h.,0.05,0.14,0.1,0.14,0,baixo
+"Chego em casa às 19h. Depois me passa os R$ 3.000 da viagem, sem pressa.",0.08,0.54,0.03,0.13,0,baixo
+Me empresta R$ 800? Te devolvo amanhã.,0.01,0.81,0.11,0.0,1,medio
+Atendimento FinPlus: identificamos uma compra suspeita no seu cartão.,0.1,0.09,0.08,0.96,1,medio
+É urgente!,0.9,0.12,0.14,0.04,1,medio
+"Oi, aqui é da loja onde você comprou semana passada. Última chance, o prazo acaba hoje. Manda R$ 150 nessa chave Pix: (11) 99992-8557",0.9,0.94,0.14,0.28,2,alto
+"Promoção da semana: 20% de desconto na loja. Me avisa até amanhã, beleza?",0.32,0.1,0.39,0.07,1,medio
+"Comprei o pão, mais alguma coisa?",0.04,0.05,0.1,0.11,0,baixo
+Faz uma transferência de R$ 500 pra conta de segurança.,0.04,0.89,0.01,0.1,1,medio
+Atendimento Banco Atlântico: identificamos uma compra suspeita no seu cartão. É urgente! Me empresta R$ 2.300? Te devolvo amanhã.,0.85,0.75,0.08,0.81,2,alto
+"Oi amor, troquei de número, salva esse. Paga esse boleto de R$ 1.200 pra mim? Depois te passo.",0.06,0.83,0.12,0.86,2,alto
+"Depois me passa os R$ 3.000 da viagem, sem pressa.",0.12,0.37,0.05,0.12,0,baixo
+Paga esse boleto de R$ 500 pra mim? Depois te passo.,0.02,0.85,0.05,0.06,1,medio
+"Oi mãe, troquei de número, salva esse. Participe do sorteio do grupo da academia. Última chance, o prazo acaba hoje. Faz uma transferência de R$ 1.500 pra conta de segurança.",0.8,0.85,0.4,1.0,2,alto
+"Me avisa até amanhã, beleza?",0.42,0.1,0.13,0.12,0,baixo
+Amanhã tem reunião às 10h. Participe do sorteio do grupo da academia.,0.03,0.13,0.35,0.02,0,baixo
+"Quando puder, me responde.",0.32,0.1,0.05,0.06,0,baixo
+"Olá, sou o gerente da sua conta no Banco Horizonte.",0.1,0.11,0.13,0.86,1,medio
+Manda a foto do bolo!,0.09,0.01,0.07,0.12,0,baixo
+"Oi mãe, troquei de número, salva esse. Cupom de frete grátis válido até domingo. Responde rápido, é sério! Faz uma transferência de R$ 1.200 pra conta de segurança.",0.88,0.84,0.43,0.89,2,alto
+"Oi, sou eu, Juliana, tô usando o celular de um amigo. Responde rápido, é sério! Me empresta R$ 1.200? Te devolvo amanhã.",0.91,0.86,0.08,0.98,2,alto
+Manda R$ 500 nessa chave Pix: pagamentos214@exemplo.com,0.13,0.83,0.05,0.07,1,medio
+Chego em casa às 19h.,0.12,0.02,0.05,0.13,0,baixo
+Seu cadastro foi premiado na promoção de aniversário do Banco Horizonte.,0.13,0.13,0.78,0.07,1,medio
+"Oi mãe, troquei de número, salva esse. Promoção da semana: 20% de desconto na loja. Responde rápido, é sério! Faz uma transferência de R$ 500 pra conta de segurança.",0.87,0.82,0.39,0.8,1,medio
+"Você ganhou um celular novo, pague só o frete. Transfere R$ 2.300 para regularizar sua conta.",0.13,0.75,0.74,0.07,1,medio
+"Comprei o pão, mais alguma coisa?",0.09,0.09,0.1,0.05,0,baixo
+Obrigado pela ajuda hoje. Cupom de frete grátis válido até domingo.,0.14,0.13,0.29,0.09,0,baixo
+Parabéns! Você foi sorteado e ganhou R$ 450. Sua conta será bloqueada em 30 minutos. Paga esse boleto de R$ 800 pra mim? Depois te passo.,0.8,0.72,0.85,0.11,2,alto
+"Amanhã tem reunião às 10h. Me avisa até amanhã, beleza?",0.46,0.14,0.08,0.14,0,baixo
+O Thiago vai na festa?,0.02,0.04,0.11,0.08,1,medio
+Seu CPF tem um valor a receber de R$ 1.500. Manda R$ 500 nessa chave Pix: pagamentos829@exemplo.com,0.12,0.93,0.96,0.12,2,alto
+Faz uma transferência de R$ 2.300 pra conta de segurança.,0.04,0.74,0.03,0.13,1,medio
+Parabéns! Você foi sorteado e ganhou R$ 2.300.,0.0,0.01,0.83,0.02,1,medio
+"Oi vó, sou eu, meu celular quebrou e esse é meu número novo. Faz um Pix de R$ 500 pra essa chave: pagamentos799@exemplo.com",0.01,0.87,0.12,0.88,2,alto
+Manda a foto do bolo!,0.14,0.08,0.01,0.09,0,baixo
+Faz um Pix de R$ 1.500 pra essa chave: (11) 91146-1688,0.03,0.86,0.05,0.09,1,medio
+Se der pra resolver hoje seria bom.,0.56,0.01,0.15,0.05,0,baixo
+Participe do sorteio do grupo da academia.,0.06,0.11,0.36,0.11,0,baixo
+Se der pra resolver hoje seria bom.,0.55,0.02,0.08,0.14,0,baixo
+"Olá, sou o gerente da sua conta no FinPlus. Cupom de frete grátis válido até domingo. É urgente! Me empresta R$ 2.300? Te devolvo amanhã.",0.83,0.88,0.33,0.82,2,alto
+Parabéns! Você foi sorteado e ganhou R$ 800.,0.09,0.08,0.77,0.12,1,medio
+Faz uma transferência de R$ 1.200 pra conta de segurança.,0.11,0.79,0.08,0.08,1,medio
+"Você ganhou um celular novo, pague só o frete. Faz uma transferência de R$ 500 pra conta de segurança.",0.08,1.0,0.88,0.08,2,alto
+"Olá, falo em nome da administração do condomínio. Tem que ser hoje, senão vão cortar. Faz uma transferência de R$ 500 pra conta de segurança.",0.9,0.88,0.04,0.3,2,alto
+"Não posso falar agora, só faz isso rápido.",0.89,0.07,0.05,0.14,1,medio
+"Somos do suporte do WhatsApp, sua conta foi denunciada. Participe do sorteio do grupo da academia. Preciso disso agora, por favor. Me empresta R$ 280? Te devolvo amanhã.",0.94,0.92,0.52,0.97,2,alto
+"Te mandei o Pix do almoço, confere aí. A vaquinha do presente ficou R$ 2.300 pra cada.",0.12,0.51,0.1,0.05,0,baixo
+Cupom de frete grátis válido até domingo.,0.08,0.03,0.45,0.0,0,baixo
+Parabéns! Você foi sorteado e ganhou R$ 2.300.,0.12,0.09,0.95,0.03,1,medio
+"Depois me passa os R$ 1.200 da viagem, sem pressa.",0.03,0.33,0.1,0.13,0,baixo
+"Olá, falo em nome da administração do condomínio. Não posso falar agora, só faz isso rápido. Faz um Pix de R$ 1.500 pra essa chave: pagamentos704@exemplo.com",0.86,0.87,0.04,0.45,2,alto
+"Oi tia, sou eu, meu celular quebrou e esse é meu número novo. Cupom de frete grátis válido até domingo. Responde rápido, é sério! Faz um Pix de R$ 450 pra essa chave: 057ded1b-5372-ab87",0.92,0.82,0.52,0.92,2,alto
+"Olá, sou o gerente da sua conta no FinPlus. Promoção da semana: 20% de desconto na loja. Responde rápido, é sério! Faz um Pix de R$ 500 pra essa chave: pagamentos415@exemplo.com",0.8,0.87,0.53,0.99,2,alto
+Parabéns! Você foi sorteado e ganhou R$ 3.000.,0.02,0.04,0.94,0.12,1,medio
+"Oi, tudo bem? Olá, falo em nome da administração do condomínio. É urgente! Transfere R$ 450 para regularizar sua conta.",0.89,0.96,0.06,0.31,2,alto
+"Oi, sou eu, Diego, tô usando o celular de um amigo. Responde rápido, é sério! Faz um Pix de R$ 450 pra essa chave: (11) 95889-6424",0.8,0.82,0.04,0.86,2,alto
+Seu CPF tem um valor a receber de R$ 2.300.,0.09,0.12,0.83,0.09,1,medio
+"Aqui é da central de segurança do Banco Aurora. Cupom de frete grátis válido até domingo. Preciso disso agora, por favor. Me empresta R$ 800? Te devolvo amanhã.",0.97,0.95,0.47,0.79,2,alto
+"Você ganhou um celular novo, pague só o frete. Tem que ser hoje, senão vão cortar. Faz um Pix de R$ 450 pra essa chave: pagamentos652@exemplo.com",0.94,0.95,0.83,0.08,2,alto
+"Feliz aniversário! Tudo de bom. Quando puder, me responde.",0.35,0.08,0.11,0.04,0,baixo
+"Oi, sou eu, Vitor, tô usando o celular de um amigo.",0.12,0.05,0.06,0.91,1,medio
+"Aqui é da central de segurança do Banco Aurora. Promoção da semana: 20% de desconto na loja. Última chance, o prazo acaba hoje. Faz um Pix de R$ 800 pra essa chave: 02c8ff09-2875-ab11",0.8,0.92,0.38,0.85,2,alto
+A vaquinha do presente ficou R$ 150 pra cada.,0.05,0.43,0.03,0.09,0,baixo
+"Oi, peguei seu contato com o Camila. Última chance, o prazo acaba hoje. Manda R$ 1.200 nessa chave Pix: (11) 96320-8426",0.93,0.91,0.05,0.46,2,alto
+Vamos almoçar onde?,0.09,0.08,0.05,0.04,0,baixo
+Aqui é da central de segurança do Banco Horizonte. Manda R$ 2.300 nessa chave Pix: 055d59ba-8584-ab51,0.15,0.74,0.08,0.76,2,alto
+"Comprei o pão, mais alguma coisa?",0.12,0.05,0.09,0.1,0,baixo
+Aqui é da central de segurança do Banco Atlântico.,0.03,0.13,0.07,0.97,1,medio
+Manda a foto do bolo!,0.15,0.02,0.08,0.0,0,baixo
+"Atendimento Banco Horizonte: identificamos uma compra suspeita no seu cartão. Cupom de frete grátis válido até domingo. Responde rápido, é sério! Me empresta R$ 1.500? Te devolvo amanhã.",0.8,0.82,0.56,0.74,2,alto
+"Oi, peguei seu contato com o Mariana. Última chance, o prazo acaba hoje. Paga esse boleto de R$ 3.000 pra mim? Depois te passo.",0.97,0.79,0.09,0.35,2,alto
+"Seu CPF tem um valor a receber de R$ 150. Não posso falar agora, só faz isso rápido. Faz uma transferência de R$ 450 pra conta de segurança.",0.95,0.95,0.88,0.11,1,medio
+"Não posso falar agora, só faz isso rápido.",0.92,0.13,0.09,0.15,1,medio
+"Olá, sou o gerente da sua conta no Banco Atlântico. Tem que ser hoje, senão vão cortar. Paga esse boleto de R$ 800 pra mim? Depois te passo.",0.98,0.94,0.11,0.77,2,alto
+"Amanhã tem reunião às 10h. Depois me passa os R$ 280 da viagem, sem pressa.",0.05,0.29,0.15,0.1,0,baixo
+"Somos do suporte do WhatsApp, sua conta foi denunciada. Responde rápido, é sério! Transfere R$ 800 para regularizar sua conta.",0.98,0.95,0.09,0.94,2,alto
+Feliz aniversário! Tudo de bom.,0.02,0.01,0.11,0.14,0,baixo
+"Oi, tudo bem? Seu cadastro foi premiado na promoção de aniversário do Banco Horizonte. Última chance, o prazo acaba hoje. Transfere R$ 3.000 para regularizar sua conta.",0.82,0.91,0.78,0.02,2,alto
+Já saí do trabalho.,0.02,0.1,0.06,0.04,1,medio
+"Participe do sorteio do grupo da academia. Quando puder, me responde.",0.49,0.1,0.38,0.04,0,baixo
+Seu CPF tem um valor a receber de R$ 150. Faz uma transferência de R$ 500 pra conta de segurança.,0.14,0.81,0.99,0.1,2,alto
+"Recebi o comprovante, obrigado! A vaquinha do presente ficou R$ 280 pra cada.",0.11,0.42,0.12,0.13,0,baixo
+Qual sua chave Pix pra eu te pagar a pizza?,0.04,0.1,0.09,0.11,0,baixo
+Faz um Pix de R$ 800 pra essa chave: 00a1f284-4860-ab34,0.03,0.96,0.01,0.09,1,medio
+Promoção da semana: 20% de desconto na loja. Se der pra resolver hoje seria bom.,0.35,0.04,0.3,0.03,1,medio
+"Promoção da semana: 20% de desconto na loja. Quando puder, me responde.",0.33,0.02,0.38,0.03,1,medio
+"Te mandei o Pix do almoço, confere aí.",0.06,0.02,0.07,0.14,1,medio
+"Oi tia, sou eu, meu celular quebrou e esse é meu número novo. Promoção da semana: 20% de desconto na loja. Responde rápido, é sério! Paga esse boleto de R$ 3.000 pra mim? Depois te passo.",0.99,0.88,0.33,0.8,2,alto
+A vaquinha do presente ficou R$ 450 pra cada.,0.01,0.39,0.1,0.04,1,medio
+Qual sua chave Pix pra eu te pagar a pizza?,0.08,0.04,0.1,0.06,0,baixo
+Parabéns! Você foi sorteado e ganhou R$ 280.,0.14,0.1,0.85,0.11,1,medio
+Atendimento Banco Atlântico: identificamos uma compra suspeita no seu cartão. Paga esse boleto de R$ 3.000 pra mim? Depois te passo.,0.02,0.92,0.04,0.85,2,alto
+"Oi amor, sou eu, meu celular quebrou e esse é meu número novo. Sua conta será bloqueada em 30 minutos. Faz um Pix de R$ 800 pra essa chave: 00c5b808-4806-ab76",0.94,0.86,0.13,0.84,2,alto
+"Atendimento Banco Aurora: identificamos uma compra suspeita no seu cartão. Participe do sorteio do grupo da academia. Preciso disso agora, por favor. Me empresta R$ 3.000? Te devolvo amanhã.",0.79,0.9,0.49,0.73,2,alto
+Resgate agora seu bônus de R$ 3.000. Faz um Pix de R$ 2.300 pra essa chave: (11) 93284-2914,0.14,0.91,0.86,0.12,2,alto
+"Bom dia, tudo bem?",0.14,0.04,0.03,0.09,0,baixo
+Seu cadastro foi premiado na promoção de aniversário do Banco Aurora.,0.01,0.1,0.86,0.09,1,medio
+Seu cadastro foi premiado na promoção de aniversário do Banco Horizonte. Transfere R$ 280 para regularizar sua conta.,0.11,0.87,0.72,0.13,2,alto
+"Recebi o comprovante, obrigado!",0.04,0.07,0.12,0.03,1,medio
+É urgente!,0.76,0.1,0.05,0.02,1,medio
+A vaquinha do presente ficou R$ 280 pra cada.,0.13,0.51,0.08,0.09,0,baixo
+"Oi tia, troquei de número, salva esse. Transfere R$ 800 para regularizar sua conta.",0.1,0.78,0.05,0.92,2,alto
+Cupom de frete grátis válido até domingo.,0.02,0.03,0.48,0.06,0,baixo
+Resgate agora seu bônus de R$ 1.200.,0.07,0.15,0.96,0.1,1,medio
+Chego em casa às 19h.,0.1,0.12,0.01,0.02,0,baixo
+Bom dia! Aqui é da central de segurança do Banco Horizonte. Cupom de frete grátis válido até domingo. Sua conta será bloqueada em 30 minutos. Faz um Pix de R$ 500 pra essa chave: (11) 98777-7004,0.87,0.89,0.33,0.94,2,alto
+Parabéns! Você foi sorteado e ganhou R$ 2.300. Paga esse boleto de R$ 800 pra mim? Depois te passo.,0.02,0.82,0.73,0.03,2,alto
+"Oi pai, troquei de número, salva esse. É urgente! Paga esse boleto de R$ 2.300 pra mim? Depois te passo.",0.84,1.0,0.12,0.74,2,alto
+Seu CPF tem um valor a receber de R$ 150. Manda R$ 1.200 nessa chave Pix: 05926035-2578-ab19,0.07,0.78,0.81,0.02,2,alto
+"Comprei o pão, mais alguma coisa? Quando puder, me responde.",0.27,0.06,0.14,0.08,0,baixo
+Cupom de frete grátis válido até domingo.,0.07,0.08,0.33,0.11,0,baixo
+"Você ganhou um celular novo, pague só o frete. Responde rápido, é sério! Transfere R$ 450 para regularizar sua conta.",1.0,0.83,0.98,0.05,2,alto
+"Depois me passa os R$ 500 da viagem, sem pressa.",0.09,0.56,0.06,0.06,0,baixo
+"Atendimento FinPlus: identificamos uma compra suspeita no seu cartão. Cupom de frete grátis válido até domingo. Tem que ser hoje, senão vão cortar. Manda R$ 3.000 nessa chave Pix: (11) 99178-4489",1.0,0.93,0.41,0.87,2,alto
+"Quando puder, me responde.",0.45,0.07,0.01,0.11,0,baixo
+Parabéns! Você foi sorteado e ganhou R$ 450.,0.09,0.06,0.93,0.1,1,medio
+Parabéns! Você foi sorteado e ganhou R$ 2.300.,0.08,0.1,0.98,0.12,1,medio
+Seu CPF tem um valor a receber de R$ 500.,0.06,0.13,0.97,0.1,1,medio
+Seu cadastro foi premiado na promoção de aniversário do FinPlus.,0.12,0.11,0.99,0.12,1,medio
+"Somos do suporte do WhatsApp, sua conta foi denunciada. Cupom de frete grátis válido até domingo. Tem que ser hoje, senão vão cortar. Transfere R$ 800 para regularizar sua conta.",0.88,0.89,0.43,0.81,2,alto
+Participe do sorteio do grupo da academia.,0.01,0.12,0.44,0.12,0,baixo
+A vaquinha do presente ficou R$ 450 pra cada.,0.01,0.34,0.0,0.07,0,baixo
+"Olá, falo em nome da administração do condomínio. Preciso disso agora, por favor.",0.69,0.06,0.02,0.51,0,baixo
+"Olá, sou o gerente da sua conta no Banco Horizonte. Responde rápido, é sério! Transfere R$ 800 para regularizar sua conta.",1.0,0.99,0.03,1.0,2,alto
+"Oi pai, sou eu, meu celular quebrou e esse é meu número novo. Transfere R$ 1.500 para regularizar sua conta.",0.04,0.76,0.15,0.93,2,alto
+Parabéns! Você foi sorteado e ganhou R$ 150. Sua conta será bloqueada em 30 minutos. Faz uma transferência de R$ 1.500 pra conta de segurança.,0.99,0.96,0.99,0.15,2,alto
+"Seu CPF tem um valor a receber de R$ 1.200. Responde rápido, é sério! Manda R$ 3.000 nessa chave Pix: pagamentos514@exemplo.com",0.87,0.85,0.82,0.09,2,alto
+"Depois me passa os R$ 3.000 da viagem, sem pressa.",0.03,0.52,0.1,0.08,0,baixo
+É urgente!,1.0,0.06,0.15,0.04,1,medio
+"Oi, sou eu, Thiago, tô usando o celular de um amigo.",0.11,0.14,0.11,0.89,1,medio
+Chego em casa às 19h.,0.14,0.13,0.03,0.06,0,baixo
+Manda a foto do bolo!,0.06,0.12,0.07,0.02,0,baixo
+Aqui é da central de segurança do FinPlus.,0.01,0.06,0.09,0.97,1,medio
+Parabéns! Você foi sorteado e ganhou R$ 2.300. Faz uma transferência de R$ 280 pra conta de segurança.,0.01,0.75,0.84,0.08,2,alto
+"Não posso falar agora, só faz isso rápido.",0.85,0.07,0.0,0.12,1,medio
+"Te mandei o Pix do almoço, confere aí. Promoção da semana: 20% de desconto na loja.",0.15,0.13,0.32,0.09,0,baixo
+"Oi filha, sou eu, meu celular quebrou e esse é meu número novo. Não posso falar agora, só faz isso rápido. Faz uma transferência de R$ 500 pra conta de segurança.",0.91,0.92,0.0,0.79,2,alto
+Seu cadastro foi premiado na promoção de aniversário do Banco Horizonte. Transfere R$ 3.000 para regularizar sua conta.,0.08,0.85,0.89,0.11,2,alto
+"Comprei o pão, mais alguma coisa?",0.08,0.09,0.07,0.07,0,baixo
+A vaquinha do presente ficou R$ 280 pra cada.,0.13,0.48,0.12,0.12,0,baixo
+"Comprei o pão, mais alguma coisa?",0.05,0.04,0.15,0.08,0,baixo
+Qual sua chave Pix pra eu te pagar a pizza?,0.15,0.12,0.07,0.08,0,baixo
+Resgate agora seu bônus de R$ 280. Transfere R$ 450 para regularizar sua conta.,0.11,0.9,0.99,0.12,2,alto
+"Você ganhou um celular novo, pague só o frete. Faz uma transferência de R$ 1.500 pra conta de segurança.",0.13,0.93,0.96,0.12,2,alto
+Vamos almoçar onde?,0.01,0.05,0.08,0.11,0,baixo
+"Tem que ser hoje, senão vão cortar.",0.97,0.13,0.15,0.15,2,alto
+"Te mandei o Pix do almoço, confere aí. Me avisa até amanhã, beleza?",0.56,0.1,0.02,0.09,0,baixo
+Resgate agora seu bônus de R$ 800.,0.02,0.0,0.84,0.08,1,medio
+"Te mandei o Pix do almoço, confere aí.",0.02,0.04,0.1,0.01,0,baixo
+"Oi, peguei seu contato com o Lucas. Depois me passa os R$ 1.500 da viagem, sem pressa.",0.1,0.45,0.11,0.49,1,medio
+"Participe do sorteio do grupo da academia. Quando puder, me responde.",0.53,0.07,0.38,0.08,1,medio
+A vaquinha do presente ficou R$ 800 pra cada.,0.13,0.4,0.02,0.14,0,baixo
+"Depois me passa os R$ 3.000 da viagem, sem pressa.",0.12,0.53,0.03,0.13,0,baixo
+"Olá, falo em nome da administração do condomínio. Última chance, o prazo acaba hoje. Faz um Pix de R$ 3.000 pra essa chave: 058bb19c-9877-ab83",0.92,0.93,0.02,0.32,2,alto
+"Oi, sou eu, Pedro, tô usando o celular de um amigo. É urgente! Me empresta R$ 800? Te devolvo amanhã.",0.83,0.78,0.03,0.97,2,alto
+"Olá, falo em nome da administração do condomínio. Tem que ser hoje, senão vão cortar. Faz um Pix de R$ 800 pra essa chave: pagamentos610@exemplo.com",0.91,0.93,0.06,0.33,2,alto
+"Oi, aqui é da loja onde você comprou semana passada. Responde rápido, é sério!",0.82,0.06,0.03,0.28,1,medio
+Feliz aniversário! Tudo de bom.,0.01,0.11,0.08,0.09,0,baixo
+Se der pra resolver hoje seria bom.,0.36,0.05,0.05,0.14,0,baixo
+Sua conta será bloqueada em 30 minutos.,0.99,0.03,0.0,0.09,1,medio
+Cupom de frete grátis válido até domingo.,0.03,0.12,0.45,0.12,0,baixo
+Me empresta R$ 2.300? Te devolvo amanhã.,0.05,0.82,0.09,0.01,1,medio
+"Somos do suporte do WhatsApp, sua conta foi denunciada. Cupom de frete grátis válido até domingo. É urgente! Faz uma transferência de R$ 150 pra conta de segurança.",0.8,0.8,0.47,0.76,2,alto
+Viu o jogo ontem?,0.01,0.04,0.06,0.15,0,baixo
+"Olá, falo em nome da administração do condomínio. Sua conta será bloqueada em 30 minutos. Faz uma transferência de R$ 1.500 pra conta de segurança.",0.77,0.76,0.13,0.48,2,alto
+Se der pra resolver hoje seria bom.,0.31,0.07,0.09,0.12,0,baixo
+"Cupom de frete grátis válido até domingo. Me avisa até amanhã, beleza?",0.42,0.07,0.42,0.02,1,medio
+"Olá, sou o gerente da sua conta no Banco Atlântico. Paga esse boleto de R$ 1.200 pra mim? Depois te passo.",0.13,0.84,0.08,0.91,2,alto
+"Bom dia! Oi, peguei seu contato com o Juliana. É urgente! Me empresta R$ 500? Te devolvo amanhã.",0.79,0.8,0.03,0.33,2,alto
+"Aqui é da central de segurança do Banco Atlântico. Preciso disso agora, por favor. Faz uma transferência de R$ 500 pra conta de segurança.",0.99,0.9,0.02,0.99,2,alto
+Parabéns! Você foi sorteado e ganhou R$ 450. Me empresta R$ 1.200? Te devolvo amanhã.,0.07,0.74,0.9,0.03,1,medio
+"Olá, sou o gerente da sua conta no FinPlus. Me empresta R$ 280? Te devolvo amanhã.",0.04,0.86,0.07,0.94,2,alto
+Parabéns! Você foi sorteado e ganhou R$ 1.200. Faz um Pix de R$ 280 pra essa chave: 00e6fcf8-9946-ab35,0.03,0.81,1.0,0.05,2,alto
+Se der pra resolver hoje seria bom.,0.44,0.11,0.15,0.15,1,medio
+"Te mandei o Pix do almoço, confere aí. Me avisa até amanhã, beleza?",0.45,0.03,0.14,0.15,0,baixo
+"Responde rápido, é sério!",1.0,0.03,0.1,0.07,1,medio
+A vaquinha do presente ficou R$ 1.500 pra cada.,0.14,0.29,0.12,0.09,0,baixo
+É urgente!,0.85,0.09,0.03,0.1,1,medio
+É urgente!,1.0,0.02,0.13,0.03,1,medio
+"Você ganhou um celular novo, pague só o frete. Me empresta R$ 2.300? Te devolvo amanhã.",0.02,0.88,0.74,0.12,2,alto
+"Depois me passa os R$ 1.500 da viagem, sem pressa.",0.04,0.4,0.11,0.11,0,baixo
+"Te mandei o Pix do almoço, confere aí.",0.04,0.14,0.09,0.04,0,baixo
+"Manda a foto do bolo! Depois me passa os R$ 280 da viagem, sem pressa.",0.03,0.36,0.02,0.06,0,baixo
+"Não posso falar agora, só faz isso rápido.",0.84,0.02,0.04,0.08,1,medio
+Seu cadastro foi premiado na promoção de aniversário do Banco Aurora. Faz um Pix de R$ 150 pra essa chave: (11) 94305-5091,0.0,0.79,0.84,0.03,2,alto
+Parabéns! Você foi sorteado e ganhou R$ 450. Sua conta será bloqueada em 30 minutos. Faz um Pix de R$ 1.500 pra essa chave: pagamentos22@exemplo.com,0.79,0.79,0.79,0.12,2,alto
+"Somos do suporte do WhatsApp, sua conta foi denunciada. Manda R$ 450 nessa chave Pix: 05adcab0-6209-ab95",0.07,0.79,0.12,0.89,2,alto
+"Viu o jogo ontem? Quando puder, me responde.",0.37,0.09,0.15,0.09,0,baixo
+"Bom dia, tudo bem?",0.1,0.04,0.15,0.08,0,baixo
+O Camila vai na festa?,0.03,0.13,0.1,0.12,0,baixo
+Feliz aniversário! Tudo de bom.,0.03,0.01,0.02,0.1,0,baixo
+"Você ganhou um celular novo, pague só o frete.",0.06,0.09,0.81,0.02,1,medio
+Atendimento Banco Horizonte: identificamos uma compra suspeita no seu cartão.,0.07,0.02,0.09,0.88,1,medio
+"Boa noite, até amanhã. Promoção da semana: 20% de desconto na loja.",0.06,0.09,0.24,0.07,0,baixo
+"Oi, sumida(o)! Atendimento FinPlus: identificamos uma compra suspeita no seu cartão. Última chance, o prazo acaba hoje. Manda R$ 450 nessa chave Pix: 043d645b-3414-ab42",0.88,0.72,0.02,0.92,2,alto
+"Oi, sumida(o)! Seu cadastro foi premiado na promoção de aniversário do FinPlus. Faz um Pix de R$ 280 pra essa chave: pagamentos805@exemplo.com",0.01,0.73,0.93,0.11,2,alto
+Seu cadastro foi premiado na promoção de aniversário do Banco Horizonte.,0.07,0.01,0.8,0.0,1,medio
+"Promoção da semana: 20% de desconto na loja. Me avisa até amanhã, beleza?",0.34,0.03,0.48,0.14,1,medio
+"Oi amor, troquei de número, salva esse.",0.01,0.11,0.02,0.87,1,medio
+"Oi mãe, sou eu, meu celular quebrou e esse é meu número novo.",0.05,0.05,0.1,0.97,1,medio
+"Comprei o pão, mais alguma coisa? Cupom de frete grátis válido até domingo.",0.02,0.09,0.46,0.11,0,baixo
+"Olá, sou o gerente da sua conta no Banco Aurora.",0.05,0.14,0.12,0.79,1,medio
+"Oi, sumida(o)! Olá, sou o gerente da sua conta no Banco Aurora. Cupom de frete grátis válido até domingo. Sua conta será bloqueada em 30 minutos. Manda R$ 1.500 nessa chave Pix: pagamentos813@exemplo.com",0.79,0.82,0.51,0.83,2,alto
+Vamos almoçar onde?,0.06,0.13,0.02,0.11,0,baixo
+"Resgate agora seu bônus de R$ 500. Responde rápido, é sério! Manda R$ 2.300 nessa chave Pix: pagamentos230@exemplo.com",0.85,0.76,0.97,0.12,2,alto
+"Oi, sumida(o)! Oi, aqui é da loja onde você comprou semana passada. Tem que ser hoje, senão vão cortar. Transfere R$ 150 para regularizar sua conta.",0.83,0.78,0.11,0.41,2,alto
+"Recebi o comprovante, obrigado!",0.02,0.12,0.13,0.05,0,baixo
+"Preciso disso agora, por favor.",0.92,0.07,0.08,0.02,1,medio
+"Oi, peguei seu contato com o Ana. Sua conta será bloqueada em 30 minutos. Manda R$ 1.500 nessa chave Pix: 01991276-2629-ab51",0.85,1.0,0.1,0.26,2,alto
+"Somos do suporte do WhatsApp, sua conta foi denunciada.",0.08,0.12,0.13,0.89,1,medio
+"Tem que ser hoje, senão vão cortar.",0.98,0.01,0.09,0.01,1,medio
+"Olá, sou o gerente da sua conta no Banco Aurora. Promoção da semana: 20% de desconto na loja. Sua conta será bloqueada em 30 minutos. Manda R$ 450 nessa chave Pix: pagamentos82@exemplo.com",0.88,0.88,0.36,0.89,2,alto
+"Oi filha, sou eu, meu celular quebrou e esse é meu número novo. Faz um Pix de R$ 1.200 pra essa chave: (11) 95476-3397",0.06,0.68,0.12,0.81,2,alto
+"Olá, sou o gerente da sua conta no FinPlus. É urgente! Manda R$ 450 nessa chave Pix: pagamentos156@exemplo.com",0.89,1.0,0.11,0.98,2,alto
+"Oi, sumida(o)! Aqui é da central de segurança do FinPlus. Transfere R$ 280 para regularizar sua conta.",0.07,0.81,0.06,0.94,2,alto
+"Somos do suporte do WhatsApp, sua conta foi denunciada.",0.14,0.1,0.0,0.78,2,alto
+"Me avisa até amanhã, beleza?",0.39,0.14,0.04,0.11,0,baixo
+"Boa noite, até amanhã.",0.06,0.02,0.06,0.06,0,baixo
+"Boa noite, até amanhã.",0.03,0.05,0.09,0.11,0,baixo
+Cupom de frete grátis válido até domingo. Se der pra resolver hoje seria bom.,0.4,0.05,0.27,0.07,1,medio
+A vaquinha do presente ficou R$ 2.300 pra cada.,0.12,0.39,0.03,0.06,0,baixo
+"Oi tia, troquei de número, salva esse. Paga esse boleto de R$ 3.000 pra mim? Depois te passo.",0.14,0.78,0.14,0.95,2,alto
+Manda a foto do bolo! A vaquinha do presente ficou R$ 2.300 pra cada.,0.0,0.38,0.09,0.06,0,baixo
+"O Gabriel vai na festa? Quando puder, me responde.",0.33,0.09,0.03,0.09,0,baixo
+"Boa noite, até amanhã. Participe do sorteio do grupo da academia.",0.04,0.04,0.43,0.1,0,baixo
+"Aqui é da central de segurança do Banco Horizonte. Última chance, o prazo acaba hoje. Faz uma transferência de R$ 1.200 pra conta de segurança.",0.78,0.73,0.1,0.91,2,alto
+"Olá, sou o gerente da sua conta no Banco Horizonte. Cupom de frete grátis válido até domingo. Preciso disso agora, por favor. Me empresta R$ 500? Te devolvo amanhã.",0.72,0.84,0.54,0.93,2,alto
+"Tem que ser hoje, senão vão cortar.",0.97,0.14,0.04,0.08,1,medio
+Seu CPF tem um valor a receber de R$ 1.500. É urgente! Transfere R$ 3.000 para regularizar sua conta.,0.98,0.8,0.83,0.05,2,alto
+"Oi, tudo bem? Oi, sou eu, Ana, tô usando o celular de um amigo. Não posso falar agora, só faz isso rápido. Paga esse boleto de R$ 280 pra mim? Depois te passo.",0.8,0.86,0.07,1.0,2,alto
+Feliz aniversário! Tudo de bom.,0.04,0.14,0.12,0.02,0,baixo
+Seu cadastro foi premiado na promoção de aniversário do Banco Aurora. Faz uma transferência de R$ 1.500 pra conta de segurança.,0.12,0.86,0.98,0.11,2,alto
+"Oi, aqui é da loja onde você comprou semana passada. Depois me passa os R$ 450 da viagem, sem pressa.",0.12,0.52,0.13,0.41,1,medio
+"Somos do suporte do WhatsApp, sua conta foi denunciada. Participe do sorteio do grupo da academia. Responde rápido, é sério! Paga esse boleto de R$ 3.000 pra mim? Depois te passo.",0.93,0.75,0.39,0.78,2,alto
+"Oi, tudo bem? Oi, aqui é da loja onde você comprou semana passada. Tem que ser hoje, senão vão cortar. Faz um Pix de R$ 450 pra essa chave: 00ce8bda-7958-ab57",0.88,0.85,0.03,0.56,2,alto
+"Olá, sou o gerente da sua conta no Banco Atlântico. Última chance, o prazo acaba hoje. Paga esse boleto de R$ 3.000 pra mim? Depois te passo.",0.78,0.93,0.12,0.93,2,alto
+"Oi filho, sou eu, meu celular quebrou e esse é meu número novo.",0.03,0.09,0.02,0.88,1,medio
+O Diego vai na festa? A vaquinha do presente ficou R$ 150 pra cada.,0.02,0.51,0.03,0.1,0,baixo
+"Oi vó, troquei de número, salva esse. Cupom de frete grátis válido até domingo. Responde rápido, é sério! Faz um Pix de R$ 500 pra essa chave: (11) 93307-3638",0.71,0.97,0.34,0.92,2,alto
+"Oi, aqui é da loja onde você comprou semana passada. Sua conta será bloqueada em 30 minutos.",0.85,0.1,0.01,0.55,1,medio
+A vaquinha do presente ficou R$ 800 pra cada.,0.11,0.38,0.01,0.05,0,baixo
+Seu cadastro foi premiado na promoção de aniversário do Banco Aurora. Me empresta R$ 3.000? Te devolvo amanhã.,0.14,0.85,0.98,0.06,2,alto
+"Olá, sou o gerente da sua conta no Banco Horizonte. Participe do sorteio do grupo da academia. Responde rápido, é sério! Faz um Pix de R$ 1.500 pra essa chave: 05ae79b8-3885-ab20",0.81,0.83,0.43,0.88,2,alto
+"Olá, falo em nome da administração do condomínio. Sua conta será bloqueada em 30 minutos. Manda R$ 450 nessa chave Pix: 0320cfab-1232-ab29",0.91,0.86,0.03,0.48,2,alto
+Promoção da semana: 20% de desconto na loja.,0.15,0.14,0.51,0.04,0,baixo
+"Oi, sumida(o)! Oi amor, troquei de número, salva esse. Manda R$ 2.300 nessa chave Pix: pagamentos370@exemplo.com",0.15,0.8,0.14,0.98,2,alto
+Participe do sorteio do grupo da academia.,0.1,0.07,0.36,0.06,0,baixo
+Se der pra resolver hoje seria bom.,0.4,0.0,0.07,0.01,0,baixo
+Obrigado pela ajuda hoje. Cupom de frete grátis válido até domingo.,0.03,0.04,0.26,0.0,0,baixo
+Cupom de frete grátis válido até domingo.,0.12,0.12,0.47,0.03,0,baixo
+Participe do sorteio do grupo da academia.,0.04,0.08,0.5,0.13,0,baixo
+"Somos do suporte do WhatsApp, sua conta foi denunciada. Promoção da semana: 20% de desconto na loja. Sua conta será bloqueada em 30 minutos. Faz um Pix de R$ 2.300 pra essa chave: (11) 97778-2205",0.98,0.91,0.39,0.93,2,alto
+"Oi, sou eu, Pedro, tô usando o celular de um amigo.",0.0,0.03,0.03,0.88,1,medio
+"Bom dia! Oi tia, troquei de número, salva esse. Promoção da semana: 20% de desconto na loja. Preciso disso agora, por favor. Faz uma transferência de R$ 800 pra conta de segurança.",0.79,0.89,0.41,0.84,2,alto
+"Oi mano, troquei de número, salva esse. Promoção da semana: 20% de desconto na loja. Tem que ser hoje, senão vão cortar. Paga esse boleto de R$ 800 pra mim? Depois te passo.",0.91,1.0,0.34,0.79,2,alto
+Promoção da semana: 20% de desconto na loja.,0.12,0.03,0.39,0.1,0,baixo
+"Oi mãe, troquei de número, salva esse. Paga esse boleto de R$ 800 pra mim? Depois te passo.",0.1,0.91,0.04,0.93,2,alto
+Resgate agora seu bônus de R$ 280. Transfere R$ 3.000 para regularizar sua conta.,0.14,0.8,0.86,0.07,2,alto
+"Já saí do trabalho. Me avisa até amanhã, beleza?",0.44,0.14,0.06,0.12,0,baixo
+"Oi, tudo bem? Olá, sou o gerente da sua conta no Banco Horizonte. Transfere R$ 500 para regularizar sua conta.",0.03,0.88,0.11,0.87,2,alto
+Chego em casa às 19h. A vaquinha do presente ficou R$ 500 pra cada.,0.09,0.35,0.07,0.06,0,baixo
+"Oi, sou eu, Lucas, tô usando o celular de um amigo. Responde rápido, é sério! Faz um Pix de R$ 500 pra essa chave: (11) 94597-2887",0.73,0.78,0.01,0.74,2,alto
+Participe do sorteio do grupo da academia.,0.11,0.13,0.32,0.06,0,baixo
+"Comprei o pão, mais alguma coisa? Cupom de frete grátis válido até domingo.",0.1,0.03,0.4,0.11,0,baixo
+Seu CPF tem um valor a receber de R$ 3.000. Manda R$ 1.200 nessa chave Pix: pagamentos762@exemplo.com,0.09,0.74,0.85,0.02,2,alto
+"Quando puder, me responde.",0.56,0.09,0.13,0.12,0,baixo
+Paga esse boleto de R$ 1.200 pra mim? Depois te passo.,0.09,0.93,0.0,0.05,1,medio
+"Qual sua chave Pix pra eu te pagar a pizza? Me avisa até amanhã, beleza?",0.43,0.05,0.14,0.03,0,baixo
+"Tem que ser hoje, senão vão cortar.",0.96,0.02,0.1,0.07,1,medio
+"Promoção da semana: 20% de desconto na loja. Quando puder, me responde.",0.34,0.05,0.48,0.02,1,medio
+"Bom dia! Você ganhou um celular novo, pague só o frete. Faz uma transferência de R$ 500 pra conta de segurança.",0.01,0.87,0.77,0.06,2,alto
+"Boa noite, até amanhã. Se der pra resolver hoje seria bom.",0.29,0.06,0.11,0.14,0,baixo
+"Oi, sou eu, Fernanda, tô usando o celular de um amigo.",0.07,0.11,0.1,0.92,1,medio
+"Te mandei o Pix do almoço, confere aí.",0.08,0.11,0.09,0.02,0,baixo
+Já saí do trabalho.,0.15,0.0,0.05,0.05,0,baixo
+Chego em casa às 19h.,0.07,0.01,0.12,0.07,0,baixo
+"Oi, aqui é da loja onde você comprou semana passada. A vaquinha do presente ficou R$ 280 pra cada.",0.02,0.41,0.1,0.37,1,medio
+Transfere R$ 150 para regularizar sua conta.,0.08,0.93,0.07,0.0,1,medio
+Aqui é da central de segurança do Banco Aurora. Faz uma transferência de R$ 1.200 pra conta de segurança.,0.04,0.99,0.11,0.83,2,alto
+"Comprei o pão, mais alguma coisa?",0.06,0.07,0.1,0.14,0,baixo
+"Oi, sumida(o)! Oi pai, troquei de número, salva esse. Cupom de frete grátis válido até domingo. É urgente! Paga esse boleto de R$ 450 pra mim? Depois te passo.",0.95,0.98,0.46,0.92,2,alto
+"Me avisa até amanhã, beleza?",0.34,0.09,0.03,0.12,0,baixo
+Faz uma transferência de R$ 3.000 pra conta de segurança.,0.07,0.8,0.09,0.12,1,medio
+Se der pra resolver hoje seria bom.,0.54,0.09,0.02,0.04,0,baixo
+"Oi, tudo bem? Somos do suporte do WhatsApp, sua conta foi denunciada. Participe do sorteio do grupo da academia. Sua conta será bloqueada em 30 minutos. Transfere R$ 150 para regularizar sua conta.",1.0,0.89,0.45,0.79,1,medio
+O Beatriz vai na festa?,0.1,0.11,0.13,0.08,0,baixo
+Vamos almoçar onde?,0.06,0.03,0.15,0.13,0,baixo
+"Bom dia, tudo bem?",0.02,0.03,0.01,0.12,0,baixo
+"Oi, peguei seu contato com o Beatriz. Tem que ser hoje, senão vão cortar. Paga esse boleto de R$ 800 pra mim? Depois te passo.",0.75,0.9,0.04,0.41,2,alto
+"Olá, sou o gerente da sua conta no Banco Aurora. Paga esse boleto de R$ 1.500 pra mim? Depois te passo.",0.07,0.89,0.1,0.78,2,alto
+"Boa noite, até amanhã.",0.0,0.09,0.05,0.08,0,baixo
+"Oi amor, troquei de número, salva esse. Participe do sorteio do grupo da academia. Tem que ser hoje, senão vão cortar. Manda R$ 150 nessa chave Pix: 0524c155-6259-ab43",0.87,0.91,0.43,0.84,2,alto
+"Comprei o pão, mais alguma coisa? Depois me passa os R$ 800 da viagem, sem pressa.",0.03,0.48,0.13,0.07,0,baixo
+Já saí do trabalho. Cupom de frete grátis válido até domingo.,0.11,0.01,0.47,0.09,0,baixo
+"Olá, falo em nome da administração do condomínio. Sua conta será bloqueada em 30 minutos. Faz uma transferência de R$ 150 pra conta de segurança.",0.87,1.0,0.1,0.39,2,alto
+Cupom de frete grátis válido até domingo.,0.13,0.12,0.35,0.08,0,baixo
+"Parabéns! Você foi sorteado e ganhou R$ 500. Tem que ser hoje, senão vão cortar. Me empresta R$ 3.000? Te devolvo amanhã.",0.89,0.86,0.76,0.04,2,alto
+"Oi, aqui é da loja onde você comprou semana passada. É urgente! Manda R$ 800 nessa chave Pix: 034a0710-2765-ab15",0.8,1.0,0.03,0.35,2,alto
+Qual sua chave Pix pra eu te pagar a pizza? Cupom de frete grátis válido até domingo.,0.02,0.03,0.41,0.04,0,baixo
+"Seu CPF tem um valor a receber de R$ 1.500. Preciso disso agora, por favor. Faz um Pix de R$ 500 pra essa chave: pagamentos154@exemplo.com",0.98,0.81,0.89,0.11,2,alto
+Aqui é da central de segurança do Banco Atlântico. Promoção da semana: 20% de desconto na loja. É urgente! Faz um Pix de R$ 1.200 pra essa chave: (11) 91628-8100,0.79,0.93,0.52,0.87,2,alto
+"Recebi o comprovante, obrigado!",0.04,0.09,0.09,0.14,0,baixo
+"Oi, peguei seu contato com o Pedro. Última chance, o prazo acaba hoje. Transfere R$ 2.300 para regularizar sua conta.",0.91,0.84,0.02,0.29,2,alto
+Seu cadastro foi premiado na promoção de aniversário do Banco Horizonte. Paga esse boleto de R$ 2.300 pra mim? Depois te passo.,0.1,0.83,1.0,0.15,2,alto
+Já saí do trabalho. A vaquinha do presente ficou R$ 800 pra cada.,0.06,0.54,0.05,0.04,0,baixo
+Cupom de frete grátis válido até domingo. Se der pra resolver hoje seria bom.,0.53,0.01,0.51,0.0,0,baixo
+"Oi, aqui é da loja onde você comprou semana passada. Tem que ser hoje, senão vão cortar.",0.98,0.07,0.02,0.51,1,medio
+"Te mandei o Pix do almoço, confere aí.",0.12,0.06,0.13,0.12,0,baixo
+"Última chance, o prazo acaba hoje.",0.99,0.04,0.06,0.03,1,medio
+"Oi, sou eu, Carla, tô usando o celular de um amigo. Promoção da semana: 20% de desconto na loja. É urgente! Transfere R$ 500 para regularizar sua conta.",0.91,0.82,0.47,0.83,2,alto
+"Oi vó, troquei de número, salva esse. É urgente! Transfere R$ 280 para regularizar sua conta.",0.9,0.89,0.06,0.92,2,alto
+"Oi, tudo bem? Aqui é da central de segurança do FinPlus. Me empresta R$ 450? Te devolvo amanhã.",0.12,0.78,0.1,0.97,2,alto
+"Aqui é da central de segurança do FinPlus. Não posso falar agora, só faz isso rápido. Manda R$ 500 nessa chave Pix: 01d0bf6c-2687-ab37",0.88,0.92,0.03,0.94,2,alto
+"Me avisa até amanhã, beleza?",0.38,0.12,0.09,0.12,0,baixo
+"Tem que ser hoje, senão vão cortar.",0.86,0.07,0.12,0.02,1,medio
+"Obrigado pela ajuda hoje. Me avisa até amanhã, beleza?",0.41,0.13,0.14,0.13,0,baixo
+Paga esse boleto de R$ 1.200 pra mim? Depois te passo.,0.11,0.75,0.03,0.06,1,medio
+"Cupom de frete grátis válido até domingo. Me avisa até amanhã, beleza?",0.55,0.06,0.37,0.04,1,medio
+Manda a foto do bolo!,0.05,0.13,0.11,0.07,0,baixo
+"Comprei o pão, mais alguma coisa?",0.14,0.08,0.09,0.14,0,baixo
+"Obrigado pela ajuda hoje. Me avisa até amanhã, beleza?",0.4,0.01,0.04,0.02,0,baixo
+"Bom dia, tudo bem?",0.05,0.09,0.01,0.03,0,baixo
+Manda a foto do bolo!,0.05,0.06,0.11,0.11,0,baixo
+Transfere R$ 1.200 para regularizar sua conta.,0.07,0.97,0.04,0.15,1,medio
+"Olá, falo em nome da administração do condomínio. Depois me passa os R$ 800 da viagem, sem pressa.",0.1,0.3,0.1,0.42,1,medio
+"Já saí do trabalho. Quando puder, me responde.",0.51,0.05,0.05,0.14,0,baixo
+Transfere R$ 150 para regularizar sua conta.,0.05,0.98,0.06,0.04,0,baixo
+"Resgate agora seu bônus de R$ 450. Preciso disso agora, por favor. Manda R$ 500 nessa chave Pix: 0509f0e9-7131-ab10",0.82,0.74,0.85,0.13,2,alto
+Atendimento FinPlus: identificamos uma compra suspeita no seu cartão. Paga esse boleto de R$ 3.000 pra mim? Depois te passo.,0.12,0.8,0.1,0.95,2,alto
+"Olá, sou o gerente da sua conta no Banco Horizonte. Participe do sorteio do grupo da academia. Tem que ser hoje, senão vão cortar. Paga esse boleto de R$ 150 pra mim? Depois te passo.",0.79,0.93,0.54,0.85,2,alto
+Já saí do trabalho.,0.07,0.06,0.12,0.09,0,baixo
+Resgate agora seu bônus de R$ 800. Faz um Pix de R$ 1.200 pra essa chave: 034bb5a4-5852-ab13,0.0,0.79,0.79,0.13,2,alto
+A vaquinha do presente ficou R$ 500 pra cada.,0.05,0.39,0.09,0.1,0,baixo
+"Te mandei o Pix do almoço, confere aí. Me avisa até amanhã, beleza?",0.51,0.01,0.01,0.09,0,baixo
+Manda a foto do bolo! Se der pra resolver hoje seria bom.,0.46,0.12,0.13,0.08,0,baixo
+"Vamos almoçar onde? Me avisa até amanhã, beleza?",0.47,0.03,0.1,0.12,0,baixo
+"Somos do suporte do WhatsApp, sua conta foi denunciada. Transfere R$ 1.200 para regularizar sua conta.",0.03,0.9,0.11,0.84,2,alto
+Vamos almoçar onde?,0.11,0.15,0.04,0.11,0,baixo
+Se der pra resolver hoje seria bom.,0.37,0.15,0.13,0.04,0,baixo
+"Olá, falo em nome da administração do condomínio. Tem que ser hoje, senão vão cortar. Me empresta R$ 150? Te devolvo amanhã.",0.86,1.0,0.08,0.45,2,alto
