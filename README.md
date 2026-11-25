@@ -22,3 +22,16 @@ Motor de risco baseado em Quantum Machine Learning (Qiskit) para identificar gol
 Todos os nomes, bancos, valores e chaves Pix são inventados. Os sinais são atribuídos pelo gerador, simulando a saída de um extrator; servem para validar o pipeline do MVP, não para medir desempenho em mensagens reais.
 
 Para gerar outra base: `python dados/gerar_base.py 1000`
+
+## Treinar o modelo
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate        # Windows
+pip install -r requirements.txt
+python src/treinar.py --iter 100
+```
+
+O script treina um baseline clássico (regressão logística) e o VQC no simulador do Qiskit, e salva os pesos e as métricas em `modelos/`.
+
+**Status:** o pipeline funciona de ponta a ponta, mas o VQC ainda não está bem ajustado. Nos primeiros testes, o baseline clássico chegou a 84% de acurácia e o VQC ficou entre 46% e 54%. Próximo passo: melhorar a codificação dos sinais e a leitura das classes no circuito.
