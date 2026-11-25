@@ -56,3 +56,10 @@ Deck “QTrust” (15 slides) no Claude: https://claude.ai/artifact/EagEFEgWppSo
 - Logo: esfera quântica com órbita e cadeado, wordmark “QTrust” e o lema “Quantum Security”.
 - Base teórica: Weinberg & Faccia, “Quantum Algorithms: A New Frontier in Financial Crime Prevention”, arXiv:2403.18322 (2024). Usado nos slides “Por que quântico”, “Construção” e “Próximos passos”. Discurso honesto: QML é uma fronteira promissora; a vantagem prática ainda não está demonstrada, e o QTrust mede isso num problema real.
 - Arquitetura apresentada: hardware IBM só no treino e na validação (fila de minutos); a resposta em tempo real usa o circuito já treinado em simulador. Sinais extraídos no aparelho; só o vetor de 4 números sai do dispositivo (LGPD).
+
+## Conclusão científica do QTrust
+(Só fiz uma correção na parte de iterações do VQC. Por favor, revise o código para ver se os ajustes estão certos, sugira novas ideias de melhoria ou me diga se já podemos manter do jeito que está - att. Bea)
+
+Neste experimento, o modelo clássico de Regressão Logística apresentou desempenho superior ao Variational Quantum Classifier (VQC) na classificação de mensagens sintéticas relacionadas a golpes Pix.
+
+O VQC apresentou evolução conforme o número de iterações aumentou de 10 para 30 e 50, mas sua performance estabilizou entre 30 e 50 iterações, permanecendo inferior ao baseline clássico.
