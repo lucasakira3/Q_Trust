@@ -3,3 +3,5 @@ __pycache__/
 .venv/
 .env
 modelos/
+interface/node_modules/
+interface/dist/

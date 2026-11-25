@@ -40,6 +40,16 @@ source .venv/bin/activate     # Mac/Linux
 python src/treinar.py --iter 100
 ```
 
-O script treina um baseline clássico (regressão logística) e o VQC no simulador do Qiskit, e salva os pesos e as métricas em `modelos/`.
+O script treina um baseline clássico (regressão logística) e o VQC no simulador do Qiskit, salva os pesos e as métricas em `modelos/` e gera `interface/public/predicoes.json` com o resultado de cada mensagem. Para testar só a interface, rápido: `python src/treinar.py --sem-vqc`.
+
+## Interface
+
+Uma interface em React mostra cada mensagem, os 4 sinais, o resultado de cada modelo e o cálculo passo a passo. Requer [Node.js](https://nodejs.org/) 20 ou mais novo.
+
+```bash
+cd interface
+npm install        # só na primeira vez
+npm run dev        # abre em http://localhost:5173
+```
 
 **Status:** o pipeline funciona de ponta a ponta, mas o VQC ainda não está bem ajustado. Nos primeiros testes, o baseline clássico chegou a 84% de acurácia e o VQC ficou entre 46% e 54%. Próximo passo: melhorar a codificação dos sinais e a leitura das classes no circuito.
