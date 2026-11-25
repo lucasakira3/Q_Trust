@@ -19,7 +19,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score, classification_report, f1_score
+from sklearn.metrics import accuracy_score, classification_report, f1_score, confusion_matrix
 from sklearn.model_selection import train_test_split
 
 from qiskit.circuit.library import real_amplitudes, zz_feature_map
@@ -122,13 +122,43 @@ def main():
             ansatz=ansatz,
             optimizer=COBYLA(maxiter=args.iter),
             callback=lambda pesos, custo: historico.append(custo),
+            output_shape=3,
         )
+        
         print(f"\nTreinando VQC ({ansatz.num_parameters} parâmetros θ, {args.iter} iterações)...")
         t0 = time.time()
         vqc.fit(X_tr * ESCALA, y_tr)
         tempo_vqc = time.time() - t0
         y_pred = np.asarray(vqc.predict(X_te * ESCALA)).astype(int).ravel()
-        metricas["vqc_simulador"] = avaliar("VQC quântico (simulador)", y_te, y_pred, tempo_vqc)
+        
+        # Diagnóstico das probabilidades do VQC
+        probs_teste = np.asarray(vqc.predict_proba(X_te * ESCALA))
+
+        print("\n=== PROBABILIDADES MÉDIAS POR CLASSE ===")
+        print(f"Baixo (0): {probs_teste[:, 0].mean():.4f}")
+        print(f"Médio (1):  {probs_teste[:, 1].mean():.4f}")
+        print(f'Alto (2):   {probs_teste[:, 2].mean():.4f}')
+
+        print("\nProbabilidades das primeiras 10 mensagens:")
+        print(np.round(probs_teste[:10], 3))
+
+        print("\n=== DIAGNÓSTICO VQC ===")
+
+        print("\nDistribuição das previsões:")
+        print(pd.Series(y_pred).value_counts().sort_index())
+
+        print("\nMatriz de confusão (linhas = real, colunas = previsto):")
+        print(confusion_matrix(y_te, y_pred, labels=[0, 1, 2]))
+
+        print("\nClasses: 0 = baixo | 1 = medio | 2 = alto")
+
+        metricas["vqc_simulador"] = avaliar(
+            "VQC quântico (simulador)",
+            y_te,
+            y_pred,
+            tempo_vqc
+        )
+        
         print(f"Custo: {historico[0]:.3f} -> {historico[-1]:.3f}")
         p_vqc = probs_vqc(vqc, X * ESCALA)
         vqc_info = {
