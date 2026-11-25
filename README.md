@@ -23,12 +23,20 @@ Todos os nomes, bancos, valores e chaves Pix são inventados. Os sinais são atr
 
 Para gerar outra base: `python dados/gerar_base.py 1000`
 
+## Instalação
+
+Pré-requisito: Python 3.11 ou mais novo (testado com 3.14), instalado a partir de [python.org](https://www.python.org/downloads/). No Windows, marque “Add Python to PATH” na instalação.
+
+- **Windows:** dê dois cliques em `instalar.bat`.
+- **Mac/Linux:** rode `./instalar.sh` no terminal.
+
+O script cria o ambiente virtual `.venv` e instala as versões exatas de `requirements.txt`.
+
 ## Treinar o modelo
 
 ```bash
-python -m venv .venv
 .venv\Scripts\activate        # Windows
-pip install -r requirements.txt
+source .venv/bin/activate     # Mac/Linux
 python src/treinar.py --iter 100
 ```
 
