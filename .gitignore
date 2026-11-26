@@ -5,3 +5,9 @@ __pycache__/
 modelos/
 interface/node_modules/
 interface/dist/
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
