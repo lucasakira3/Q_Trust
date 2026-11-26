@@ -157,3 +157,6 @@ Weinberg & Faccia (2024). *Quantum Algorithms: A New Frontier in Financial Crime
 
 - Lucas Akira ([lucasakira3](https://github.com/lucasakira3))
 - Bea ([biihz](https://github.com/biihz))
+- Miguel Amaro Dourado de Sousa
+- Yasmim Eun Hae Kim
+- Kaique Correia da Silva

@@ -9,7 +9,7 @@ Motor de risco com Quantum Machine Learning (Qiskit) para identificar golpes em 
 Quatro sinais por mensagem, cada um de 0 a 1, um por qubit:
 x1 urgência · x2 pedido de transferência · x3 promessa de prêmio · x4 falsa identidade.
 
-Equipe: Lucas Akira (lucasakira3) e Bea (biihz).
+Equipe: Lucas Akira (lucasakira3), Bea (biihz), Miguel Amaro Dourado de Sousa, Yasmim Eun Hae Kim e Kaique Correia da Silva.
 
 ## Preferências do Lucas
 
